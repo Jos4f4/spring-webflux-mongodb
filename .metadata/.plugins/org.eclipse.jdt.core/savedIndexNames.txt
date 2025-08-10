@@ -11,7 +11,6 @@ INDEX VERSION 1.134+J:\Projetos\spring-webflux-mongodb\.metadata\.plugins\org.ec
 15985251.index
 1433046027.index
 670298264.index
-1219290952.index
 3105479634.index
 596058221.index
 3194879417.index
