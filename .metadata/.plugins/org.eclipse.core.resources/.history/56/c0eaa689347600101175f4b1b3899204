@@ -42,7 +42,7 @@ public class UserService {
 					return repository.save(existingUser);
 				})
 				.map(user -> new UserDTO(user))
-				.switchIfEmpty(Mono.error(new ResourceNotFoundException("Recurso não encontrado")));
+				.switchIfEmpty(Mono.error(new ResourcenotFoundException("Recurso não encontrado")));
 	}
 	
 	private void copyDtoToEntity(UserDTO dto, User entity) {
