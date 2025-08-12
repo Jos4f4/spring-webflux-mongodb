@@ -454,3 +454,426 @@
 2025-08-10 00:17:22,886 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2025-08-10 00:17:22,892 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2025-08-10 00:17:22,899 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:36:57,649 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:workshopmongo:0.0.1-SNAPSHOT @ J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\pom.xml.
+2025-08-10 00:36:58,268 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0-RC1/spring-boot-starter-data-mongodb-reactive-3.0.0-RC1.pom
+2025-08-10 00:36:58,317 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0-RC1/spring-boot-starter-data-mongodb-reactive-3.0.0-RC1.pom
+2025-08-10 00:36:58,558 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/reactor-core/3.5.0-RC1/reactor-core-3.5.0-RC1.pom
+2025-08-10 00:36:58,591 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/reactor-core/3.5.0-RC1/reactor-core-3.5.0-RC1.pom
+2025-08-10 00:36:58,742 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0.pom
+2025-08-10 00:36:59,025 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0.pom
+2025-08-10 00:36:59,055 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0.pom
+2025-08-10 00:36:59,522 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0-RC1/spring-boot-starter-data-mongodb-reactive-3.0.0-RC1.jar
+2025-08-10 00:36:59,576 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0-RC1/spring-boot-starter-data-mongodb-reactive-3.0.0-RC1.jar
+2025-08-10 00:36:59,719 [BasicRepositoryConnector-repo.spring.io-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0.jar
+2025-08-10 00:37:00,641 [BasicRepositoryConnector-repo.spring.io-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/reactor-core/3.5.0-RC1/reactor-core-3.5.0-RC1.jar
+2025-08-10 00:37:01,681 [BasicRepositoryConnector-repo.spring.io-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/reactor-core/3.5.0-RC1/reactor-core-3.5.0-RC1.jar
+2025-08-10 00:37:01,809 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0.jar
+2025-08-10 00:37:02,036 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0.jar
+2025-08-10 00:37:02,448 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:37:02,449 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:37:02,456 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:37:03,858 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0-RC1/spring-boot-starter-data-mongodb-reactive-3.0.0-RC1-sources.jar
+2025-08-10 00:37:04,067 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0-RC1/spring-boot-starter-data-mongodb-reactive-3.0.0-RC1-sources.jar
+2025-08-10 00:37:04,081 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-mongodb-reactive:3.0.0-RC1
+2025-08-10 00:37:04,271 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:37:04,301 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:37:04,309 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:37:05,149 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/reactor-core/3.5.0-RC1/reactor-core-3.5.0-RC1-sources.jar
+2025-08-10 00:37:06,215 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/reactor-core/3.5.0-RC1/reactor-core-3.5.0-RC1-sources.jar
+2025-08-10 00:37:06,219 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.5.0-RC1
+2025-08-10 00:37:06,795 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0-sources.jar
+2025-08-10 00:37:07,432 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0-sources.jar
+2025-08-10 00:37:07,614 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0-beta0/mongodb-driver-reactivestreams-4.8.0-beta0-sources.jar
+2025-08-10 00:37:07,618 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-reactivestreams:4.8.0-beta0
+2025-08-10 00:37:21,827 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:workshopmongo:0.0.1-SNAPSHOT @ J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\pom.xml.
+2025-08-10 00:37:22,573 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/3.0.0-RC1/spring-boot-starter-webflux-3.0.0-RC1.pom
+2025-08-10 00:37:22,602 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/3.0.0-RC1/spring-boot-starter-webflux-3.0.0-RC1.pom
+2025-08-10 00:37:22,814 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0-RC1/spring-boot-starter-reactor-netty-3.0.0-RC1.pom
+2025-08-10 00:37:22,850 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0-RC1/spring-boot-starter-reactor-netty-3.0.0-RC1.pom
+2025-08-10 00:37:23,014 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0-RC1/reactor-netty-http-1.1.0-RC1.pom
+2025-08-10 00:37:23,047 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0-RC1/reactor-netty-http-1.1.0-RC1.pom
+2025-08-10 00:37:23,209 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final.pom
+2025-08-10 00:37:23,473 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final.pom
+2025-08-10 00:37:23,505 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final.pom
+2025-08-10 00:37:23,666 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-parent/4.1.84.Final/netty-parent-4.1.84.Final.pom
+2025-08-10 00:37:23,762 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.84.Final/netty-parent-4.1.84.Final.pom
+2025-08-10 00:37:23,902 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.84.Final/netty-parent-4.1.84.Final.pom
+2025-08-10 00:37:24,080 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final.pom
+2025-08-10 00:37:24,178 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final.pom
+2025-08-10 00:37:24,214 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final.pom
+2025-08-10 00:37:24,405 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final.pom
+2025-08-10 00:37:24,517 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final.pom
+2025-08-10 00:37:24,547 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final.pom
+2025-08-10 00:37:24,712 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final.pom
+2025-08-10 00:37:24,810 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final.pom
+2025-08-10 00:37:24,838 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final.pom
+2025-08-10 00:37:24,999 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final.pom
+2025-08-10 00:37:25,096 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final.pom
+2025-08-10 00:37:25,128 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final.pom
+2025-08-10 00:37:25,291 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final.pom
+2025-08-10 00:37:25,388 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final.pom
+2025-08-10 00:37:25,415 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final.pom
+2025-08-10 00:37:25,581 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final.pom
+2025-08-10 00:37:25,676 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final.pom
+2025-08-10 00:37:25,710 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final.pom
+2025-08-10 00:37:25,872 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final.pom
+2025-08-10 00:37:25,966 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final.pom
+2025-08-10 00:37:26,010 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final.pom
+2025-08-10 00:37:26,188 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final.pom
+2025-08-10 00:37:26,284 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final.pom
+2025-08-10 00:37:26,315 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final.pom
+2025-08-10 00:37:26,478 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final.pom
+2025-08-10 00:37:26,572 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final.pom
+2025-08-10 00:37:26,601 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final.pom
+2025-08-10 00:37:26,764 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final.pom
+2025-08-10 00:37:26,861 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final.pom
+2025-08-10 00:37:26,887 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final.pom
+2025-08-10 00:37:27,048 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final.pom
+2025-08-10 00:37:27,143 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final.pom
+2025-08-10 00:37:27,179 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final.pom
+2025-08-10 00:37:27,352 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final.pom
+2025-08-10 00:37:27,461 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final.pom
+2025-08-10 00:37:27,491 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final.pom
+2025-08-10 00:37:27,654 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final.pom
+2025-08-10 00:37:27,760 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final.pom
+2025-08-10 00:37:27,788 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final.pom
+2025-08-10 00:37:27,961 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final.pom
+2025-08-10 00:37:28,075 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final.pom
+2025-08-10 00:37:28,106 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final.pom
+2025-08-10 00:37:28,274 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0-RC1/reactor-netty-core-1.1.0-RC1.pom
+2025-08-10 00:37:28,308 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0-RC1/reactor-netty-core-1.1.0-RC1.pom
+2025-08-10 00:37:28,465 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final.pom
+2025-08-10 00:37:28,562 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final.pom
+2025-08-10 00:37:28,593 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final.pom
+2025-08-10 00:37:28,752 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final.pom
+2025-08-10 00:37:28,850 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final.pom
+2025-08-10 00:37:28,891 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final.pom
+2025-08-10 00:37:29,055 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.0-RC2/spring-webflux-6.0.0-RC2.pom
+2025-08-10 00:37:29,083 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.0-RC2/spring-webflux-6.0.0-RC2.pom
+2025-08-10 00:37:29,413 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/3.0.0-RC1/spring-boot-starter-webflux-3.0.0-RC1.jar
+2025-08-10 00:37:29,481 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/3.0.0-RC1/spring-boot-starter-webflux-3.0.0-RC1.jar
+2025-08-10 00:37:29,912 [BasicRepositoryConnector-repo.spring.io-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final.jar
+2025-08-10 00:37:30,052 [BasicRepositoryConnector-repo.spring.io-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final.jar
+2025-08-10 00:37:30,052 [BasicRepositoryConnector-repo.spring.io-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final.jar
+2025-08-10 00:37:30,083 [BasicRepositoryConnector-repo.spring.io-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final.jar
+2025-08-10 00:37:30,083 [BasicRepositoryConnector-repo.spring.io-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0-RC1/spring-boot-starter-reactor-netty-3.0.0-RC1.jar
+2025-08-10 00:37:30,129 [BasicRepositoryConnector-repo.spring.io-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0-RC1/reactor-netty-http-1.1.0-RC1.jar
+2025-08-10 00:37:30,165 [BasicRepositoryConnector-repo.spring.io-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0-RC1/spring-boot-starter-reactor-netty-3.0.0-RC1.jar
+2025-08-10 00:37:30,189 [BasicRepositoryConnector-repo.spring.io-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final.jar
+2025-08-10 00:37:30,202 [BasicRepositoryConnector-repo.spring.io-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final.jar
+2025-08-10 00:37:30,235 [BasicRepositoryConnector-repo.spring.io-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final.jar
+2025-08-10 00:37:30,300 [BasicRepositoryConnector-repo.spring.io-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final.jar
+2025-08-10 00:37:30,322 [BasicRepositoryConnector-repo.spring.io-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final.jar
+2025-08-10 00:37:30,341 [BasicRepositoryConnector-repo.spring.io-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final.jar
+2025-08-10 00:37:30,387 [BasicRepositoryConnector-repo.spring.io-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final-osx-x86_64.jar
+2025-08-10 00:37:30,437 [BasicRepositoryConnector-repo.spring.io-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final.jar
+2025-08-10 00:37:30,457 [BasicRepositoryConnector-repo.spring.io-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final-linux-x86_64.jar
+2025-08-10 00:37:30,498 [BasicRepositoryConnector-repo.spring.io-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final.jar
+2025-08-10 00:37:30,533 [BasicRepositoryConnector-repo.spring.io-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final.jar
+2025-08-10 00:37:30,594 [BasicRepositoryConnector-repo.spring.io-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final.jar
+2025-08-10 00:37:30,637 [BasicRepositoryConnector-repo.spring.io-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final.jar
+2025-08-10 00:37:30,858 [BasicRepositoryConnector-repo.spring.io-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.0-RC2/spring-webflux-6.0.0-RC2.jar
+2025-08-10 00:37:30,878 [BasicRepositoryConnector-repo.spring.io-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0-RC1/reactor-netty-http-1.1.0-RC1.jar
+2025-08-10 00:37:31,054 [BasicRepositoryConnector-repo.spring.io-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0-RC1/reactor-netty-core-1.1.0-RC1.jar
+2025-08-10 00:37:31,323 [BasicRepositoryConnector-repo.spring.io-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.0-RC2/spring-webflux-6.0.0-RC2.jar
+2025-08-10 00:37:31,797 [BasicRepositoryConnector-repo.spring.io-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0-RC1/reactor-netty-core-1.1.0-RC1.jar
+2025-08-10 00:37:31,967 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final.jar
+2025-08-10 00:37:32,257 [Worker-35: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final.jar
+2025-08-10 00:37:32,340 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final.jar
+2025-08-10 00:37:32,454 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final.jar
+2025-08-10 00:37:32,482 [BasicRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final.jar
+2025-08-10 00:37:32,486 [BasicRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final.jar
+2025-08-10 00:37:32,502 [BasicRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final.jar
+2025-08-10 00:37:32,533 [BasicRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final.jar
+2025-08-10 00:37:32,542 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final.jar
+2025-08-10 00:37:32,597 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final.jar
+2025-08-10 00:37:32,678 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final.jar
+2025-08-10 00:37:32,729 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final.jar
+2025-08-10 00:37:32,780 [BasicRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final.jar
+2025-08-10 00:37:32,794 [BasicRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final.jar
+2025-08-10 00:37:32,808 [BasicRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final.jar
+2025-08-10 00:37:32,812 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final.jar
+2025-08-10 00:37:32,860 [BasicRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final.jar
+2025-08-10 00:37:32,867 [BasicRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final-osx-x86_64.jar
+2025-08-10 00:37:32,892 [BasicRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final.jar
+2025-08-10 00:37:32,927 [BasicRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final.jar
+2025-08-10 00:37:32,969 [BasicRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final.jar
+2025-08-10 00:37:33,028 [BasicRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final-linux-x86_64.jar
+2025-08-10 00:37:33,054 [BasicRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final.jar
+2025-08-10 00:37:33,083 [BasicRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final-osx-x86_64.jar
+2025-08-10 00:37:33,164 [BasicRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final.jar
+2025-08-10 00:37:33,168 [BasicRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final.jar
+2025-08-10 00:37:33,235 [BasicRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final.jar
+2025-08-10 00:37:33,235 [BasicRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final-linux-x86_64.jar
+2025-08-10 00:37:33,263 [BasicRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final.jar
+2025-08-10 00:37:33,311 [BasicRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final.jar
+2025-08-10 00:37:33,365 [BasicRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final.jar
+2025-08-10 00:37:33,617 [BasicRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final.jar
+2025-08-10 00:37:33,660 [BasicRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final.jar
+2025-08-10 00:37:33,832 [BasicRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final.jar
+2025-08-10 00:37:34,426 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:37:34,427 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:37:34,431 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:37:35,208 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:37:35,233 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:37:35,245 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:37:35,944 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/3.0.0-RC1/spring-boot-starter-webflux-3.0.0-RC1-sources.jar
+2025-08-10 00:37:36,143 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/3.0.0-RC1/spring-boot-starter-webflux-3.0.0-RC1-sources.jar
+2025-08-10 00:37:36,151 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:3.0.0-RC1
+2025-08-10 00:37:36,769 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0-RC1/spring-boot-starter-reactor-netty-3.0.0-RC1-sources.jar
+2025-08-10 00:37:36,840 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0-RC1/spring-boot-starter-reactor-netty-3.0.0-RC1-sources.jar
+2025-08-10 00:37:36,845 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:3.0.0-RC1
+2025-08-10 00:37:38,022 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0-RC1/reactor-netty-http-1.1.0-RC1-sources.jar
+2025-08-10 00:37:38,619 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0-RC1/reactor-netty-http-1.1.0-RC1-sources.jar
+2025-08-10 00:37:38,624 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-http:1.1.0-RC1
+2025-08-10 00:37:39,039 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final-sources.jar
+2025-08-10 00:37:39,613 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final-sources.jar
+2025-08-10 00:37:39,955 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.84.Final/netty-codec-http-4.1.84.Final-sources.jar
+2025-08-10 00:37:39,958 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.84.Final
+2025-08-10 00:37:40,576 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final-sources.jar
+2025-08-10 00:37:40,956 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final-sources.jar
+2025-08-10 00:37:41,339 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.84.Final/netty-common-4.1.84.Final-sources.jar
+2025-08-10 00:37:41,342 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.84.Final
+2025-08-10 00:37:41,748 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final-sources.jar
+2025-08-10 00:37:42,020 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final-sources.jar
+2025-08-10 00:37:42,251 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.84.Final/netty-buffer-4.1.84.Final-sources.jar
+2025-08-10 00:37:42,255 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.84.Final
+2025-08-10 00:37:42,687 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final-sources.jar
+2025-08-10 00:37:42,942 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final-sources.jar
+2025-08-10 00:37:43,237 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.84.Final/netty-transport-4.1.84.Final-sources.jar
+2025-08-10 00:37:43,240 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.84.Final
+2025-08-10 00:37:43,659 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final-sources.jar
+2025-08-10 00:37:43,941 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final-sources.jar
+2025-08-10 00:37:44,263 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.84.Final/netty-codec-4.1.84.Final-sources.jar
+2025-08-10 00:37:44,266 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.84.Final
+2025-08-10 00:37:44,700 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final-sources.jar
+2025-08-10 00:37:44,999 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final-sources.jar
+2025-08-10 00:37:45,309 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.84.Final/netty-handler-4.1.84.Final-sources.jar
+2025-08-10 00:37:45,311 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.84.Final
+2025-08-10 00:37:45,835 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final-sources.jar
+2025-08-10 00:37:46,109 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final-sources.jar
+2025-08-10 00:37:46,436 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.84.Final/netty-codec-http2-4.1.84.Final-sources.jar
+2025-08-10 00:37:46,441 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.84.Final
+2025-08-10 00:37:47,010 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final-sources.jar
+2025-08-10 00:37:47,276 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final-sources.jar
+2025-08-10 00:37:47,456 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.84.Final/netty-resolver-dns-4.1.84.Final-sources.jar
+2025-08-10 00:37:47,461 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.84.Final
+2025-08-10 00:37:48,046 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final-sources.jar
+2025-08-10 00:37:48,447 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final-sources.jar
+2025-08-10 00:37:48,975 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.84.Final/netty-resolver-4.1.84.Final-sources.jar
+2025-08-10 00:37:48,978 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.84.Final
+2025-08-10 00:37:49,553 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final-sources.jar
+2025-08-10 00:37:51,145 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final-sources.jar
+2025-08-10 00:37:51,291 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.84.Final/netty-codec-dns-4.1.84.Final-sources.jar
+2025-08-10 00:37:51,297 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.84.Final
+2025-08-10 00:37:51,935 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final-sources.jar
+2025-08-10 00:37:52,383 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final-sources.jar
+2025-08-10 00:37:52,390 [Worker-39: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for io.netty:netty-resolver-dns-native-macos:4.1.84.Finalosx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:sources:4.1.84.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-08-10 00:37:53,044 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final-sources.jar
+2025-08-10 00:37:53,368 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final-sources.jar
+2025-08-10 00:37:53,443 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.84.Final/netty-resolver-dns-classes-macos-4.1.84.Final-sources.jar
+2025-08-10 00:37:53,446 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-classes-macos:4.1.84.Final
+2025-08-10 00:37:54,108 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final-sources.jar
+2025-08-10 00:37:54,430 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final-sources.jar
+2025-08-10 00:37:54,615 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.84.Final/netty-transport-native-epoll-4.1.84.Final-sources.jar
+2025-08-10 00:37:54,622 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.84.Finallinux-x86_64
+2025-08-10 00:37:55,159 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final-sources.jar
+2025-08-10 00:37:55,526 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final-sources.jar
+2025-08-10 00:37:55,689 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.84.Final/netty-transport-native-unix-common-4.1.84.Final-sources.jar
+2025-08-10 00:37:55,693 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.84.Final
+2025-08-10 00:37:56,377 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final-sources.jar
+2025-08-10 00:37:56,664 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final-sources.jar
+2025-08-10 00:37:56,820 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.84.Final/netty-transport-classes-epoll-4.1.84.Final-sources.jar
+2025-08-10 00:37:56,824 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-epoll:4.1.84.Final
+2025-08-10 00:37:58,005 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0-RC1/reactor-netty-core-1.1.0-RC1-sources.jar
+2025-08-10 00:37:58,708 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0-RC1/reactor-netty-core-1.1.0-RC1-sources.jar
+2025-08-10 00:37:58,714 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.1.0-RC1
+2025-08-10 00:37:59,284 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final-sources.jar
+2025-08-10 00:38:00,682 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final-sources.jar
+2025-08-10 00:38:00,976 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.84.Final/netty-handler-proxy-4.1.84.Final-sources.jar
+2025-08-10 00:38:00,979 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.84.Final
+2025-08-10 00:38:01,887 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final-sources.jar
+2025-08-10 00:38:02,132 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final-sources.jar
+2025-08-10 00:38:02,271 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.84.Final/netty-codec-socks-4.1.84.Final-sources.jar
+2025-08-10 00:38:02,277 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.84.Final
+2025-08-10 00:38:03,389 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.0-RC2/spring-webflux-6.0.0-RC2-sources.jar
+2025-08-10 00:38:04,138 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.0-RC2/spring-webflux-6.0.0-RC2-sources.jar
+2025-08-10 00:38:04,141 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:6.0.0-RC2
+2025-08-10 00:39:26,154 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:39:26,165 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:39:26,168 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:39:35,863 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:39:35,883 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:39:35,890 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:39:44,700 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:39:44,711 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:39:44,713 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:42:00,623 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:42:00,628 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:42:00,631 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:43:10,277 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:43:10,283 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:43:10,289 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:43:24,328 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:43:24,332 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:43:24,334 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:44:13,491 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:44:13,498 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:44:13,500 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:46:08,606 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:46:08,609 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:46:08,612 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:46:09,685 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:46:09,689 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:46:09,691 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:51:54,730 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:51:54,748 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:51:54,753 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:53:26,125 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:53:26,132 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:53:26,137 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:54:15,890 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 00:54:15,895 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 00:54:15,897 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 00:54:39,394 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final-javadoc.jar
+2025-08-10 00:54:39,889 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.84.Final/netty-resolver-dns-native-macos-4.1.84.Final-javadoc.jar
+2025-08-10 00:54:39,891 [Worker-46: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for io.netty:netty-resolver-dns-native-macos:4.1.84.Finalosx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:javadoc:4.1.84.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-08-10 01:01:36,378 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 01:01:36,386 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 01:01:36,390 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 01:01:44,375 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 01:01:44,379 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 01:01:44,382 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 01:03:27,023 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 01:03:27,033 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 01:03:27,038 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 01:04:40,041 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 01:04:40,048 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 01:04:40,051 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 01:23:27,171 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 01:23:27,178 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 01:23:27,181 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 01:24:03,521 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 01:24:03,530 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 01:24:03,533 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 01:24:54,049 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 01:24:54,058 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 01:24:54,061 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:07:05,368 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:07:05,383 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:07:05,386 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:08:18,609 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:08:18,615 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:08:18,617 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:09:37,909 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:09:37,913 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:09:37,915 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:10:26,205 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:10:26,210 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:10:26,213 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:10:55,444 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:10:55,455 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:10:55,458 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:13:40,175 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:13:40,181 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:13:40,184 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:17:03,294 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:17:03,301 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:17:03,304 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:19:32,405 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:19:32,413 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:19:32,418 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:19:57,893 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:19:57,898 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:19:57,904 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:21:29,941 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:21:29,945 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:21:29,947 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:22:44,212 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:22:44,216 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:22:44,218 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:23:42,626 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:23:42,629 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:23:42,632 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:34:19,369 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:34:19,374 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:34:19,376 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:35:01,498 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:35:01,502 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:35:01,503 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:36:13,786 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:36:13,790 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:36:13,792 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:36:52,050 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:36:52,054 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:36:52,057 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:40:28,953 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:40:28,957 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:40:28,959 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:54:00,127 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:54:00,131 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:54:00,134 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:54:06,991 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:54:06,998 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:54:07,001 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:59:33,421 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:59:33,425 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:59:33,427 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 17:59:41,513 [Worker-124: Launching spring-webflux-mongodb-java - WorkshopmongoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 17:59:41,519 [Worker-124: Launching spring-webflux-mongodb-java - WorkshopmongoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 17:59:41,523 [Worker-124: Launching spring-webflux-mongodb-java - WorkshopmongoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 18:03:42,248 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 18:03:42,257 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 18:03:42,261 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 18:28:32,868 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 18:28:32,877 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 18:28:32,881 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-10 18:30:05,293 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-10 18:30:05,301 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-10 18:30:05,303 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-11 23:31:54,743 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-08-11 23:46:11,041 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-11 23:46:11,128 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-11 23:46:11,172 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-11 23:49:03,576 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-11 23:49:03,580 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-11 23:49:03,583 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
+2025-08-11 23:49:18,927 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-08-11 23:49:18,935 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2025-08-11 23:49:18,940 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory J:\Projetos\spring-webflux-mongodb\spring-webflux-mongodb-java\src\test\resources
